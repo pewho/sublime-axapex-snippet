@@ -1,0 +1,11 @@
+{
+    "name": "AxApex Snippets",
+    "details": "https://github.com/pewho/sublime-axapex-snippet",
+    "labels": ["snippet"],
+    "releases": [
+        {
+            "subime_text": "*",
+            "details": "https://github.com/pewho/sublime-axapex-snippet/tags"
+        }
+    ]
+}
