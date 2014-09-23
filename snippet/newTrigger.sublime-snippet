@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+
+]]></content>
+	<tabTrigger>newTrigger</tabTrigger>
+	<scope>source.java</scope>
+	<description>New trigger header for SF</description>
+</snippet>
