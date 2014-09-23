@@ -1,0 +1,16 @@
+{
+	"name": "Globals",
+	"scope": "source.java",
+	"settings": {
+		"shellVariables": [
+			{
+				"name": "TM_FULLNAME",
+				"value": '<![CDATA[Mathias Bazire]]>',
+			},
+			{
+				"name": "TM_ENTREPRISE",
+				"value": '<![CDATA[AXA]]>',
+			}
+		]
+	}
+}
