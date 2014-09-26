@@ -8,10 +8,10 @@ Description :	${2: description}
 
 Créé le: ${3: }
 Créé par: ${4: $TM_FULLNAME}
-Modifié le: ${5: }
-Modifié par: ${6: }
-Problèmes connus: ${7: }
-Modifications à apporter: ${8: }
+Modifié le: ${5: -}
+Modifié par: ${6: -}
+Problèmes connus: ${7: n/d}
+Modifications à apporter: ${8: -}
 
 **************************************************************************************************************************************/
 ]]></content>
