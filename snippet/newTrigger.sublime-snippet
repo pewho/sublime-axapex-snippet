@@ -1,6 +1,10 @@
 <snippet>
 	<content><![CDATA[
-
+trigger ${1: $TM_FILENAME} on $2 (${3:before insert}) {
+	if PAD.canTrigger(${1/^[a-zA-Z0-9_-]+^$/$&}) {
+		$0
+	}
+}
 ]]></content>
 	<tabTrigger>newTrigger</tabTrigger>
 	<scope>source.java</scope>
